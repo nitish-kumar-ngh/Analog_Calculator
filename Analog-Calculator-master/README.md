@@ -2,7 +2,7 @@
 
 The Analog Computer allows users to input complex mathematical expressions, processed by analog circuitry to provide accurate results. This innovative device bridges the gap between digital and analog worlds, offering a unique computing experience.
 
-![WhatsApp Image 2024-06-26 at 20 06 45_1152d6e3](https://github.com/HardikJainGit/Analog-Calculator/assets/133627261/92d54893-f969-4589-b7af-ac9e66e79cc1)
+
 
 ## Features
 
